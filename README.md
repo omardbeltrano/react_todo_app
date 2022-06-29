@@ -2,9 +2,9 @@
 # todo_app
 Application that allows us to create tasks, follow their status, and delete them
 =======
-# Getting Started with Create React App
+# Live app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can see the site with the following link: https://omardbeltrano.github.io/react_todo_app/
 
 ## Available Scripts
 
