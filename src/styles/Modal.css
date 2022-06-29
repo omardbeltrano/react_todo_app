@@ -9,5 +9,19 @@
     box-shadow: 0 0 5px black;
     position: fixed;
     top: 25%;
-    right: 30%;
+    right: 35%;
+}
+
+@media(max-width: 1000px){
+    .modal-container{
+        right: 14%;
+    }
+}
+
+@media(max-width: 420px){
+    .modal-container{
+        width: 355px;
+        height: 450px;
+        right: 4%;
+    }
 }

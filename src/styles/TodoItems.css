@@ -50,3 +50,13 @@
 .TodoItem-p--completed {
     text-decoration: line-through;
 }
+
+@media (max-width: 420px){
+    .TodoItem{
+        width: 340px;
+    }
+
+    .TodoItem-p{
+        font-size: 20px;
+    }
+}
